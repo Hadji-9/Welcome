@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Khalil A.K.A @hh-Data
-- 👀 I’m interested in the universe of data engineering and machien learning
+- 👀 I’m interested in the universe of data engineering and machine learning
 - 🌱 I’m currently on a track to learn  different kind of tools and algorithms than are essential for my data driven :sunglasses: career
 - 💞️ I’m looking to collaborate on research and projects
 - 📫 How to reach me :  :email:  khalilhad9@gmail.com
